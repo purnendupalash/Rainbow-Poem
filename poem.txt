@@ -4,5 +4,7 @@ Violet
 Indigo
 Blue
 Green
+Yellow
+Ornge
 
 This is the end.
